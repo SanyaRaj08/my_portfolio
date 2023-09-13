@@ -453,7 +453,7 @@ body {
 
 @media screen and (max-width: 500px){
     .about-container{
-        height: 100px;
+        height: 150px;
     }
     .project_box{
         width: 200px;
