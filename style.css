@@ -109,6 +109,11 @@ body {
     transform: translateY(-10px);
 }
 
+.proj_col{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
 .btn-bg {
     padding: 5px;
     font-family: 'Braah One', sans-serif;
@@ -234,7 +239,11 @@ body {
 }
 .project_box{
     width: 300px;
+    height: 300px;
     border-top: 1px solid #d9dbdf;
+}
+.name_sm{
+    font-size: x-large;
 }
 
 .link_icon{
